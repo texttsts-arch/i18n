@@ -1,0 +1,12 @@
+{
+  "hello": "Bonjour",
+  "world": "Monde",
+  "name": "Nom",
+  "age": "Âge",
+  "cat": "Chat",
+  "dog": "Chien",
+  "car": "Voiture",
+  "tree": "Arbre",
+  "food": "Nourriture",
+  "drink": "Boisson"
+}
