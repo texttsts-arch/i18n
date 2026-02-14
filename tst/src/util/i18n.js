@@ -46,8 +46,10 @@ i18n
 		lng: "en",
 		fallbackLng: "en",
 		interpolation: { escapeValue: false },
+		ns: ["translation", "testt"],
+		defaultNS: "translation",
 		backend: {
-			loadPath: "/locales/{{lng}}/translation.json", // path to your JSON files
+			loadPath: "/locales/{{lng}}/{{ns}}.json", // path to your JSON files
 		},
 	});
 
