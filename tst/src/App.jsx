@@ -20,7 +20,8 @@ function App() {
         <input type="text" onChange={(e) => setName(e.target.value)} />
       </div>
       <div>
-        {name.split(' ').map((word) => t(word)).join(' ')}
+        {/* {name.split(' ').map((word) => t(word)).join(' ')} */}
+        {name=='notebook'?t(name).message:'lol'}
       </div>
 
 

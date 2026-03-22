@@ -15,5 +15,8 @@
     "book": "koob",
     "pen": "nep",
     "pencil": "cilnep",
-    "notebook": "kbooteen"
+    "notebook": {
+        "message":"kbooteen",
+        "description":"keeeeeeeep shot"
+    }
 }
